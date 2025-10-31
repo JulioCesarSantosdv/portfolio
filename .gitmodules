@@ -1,0 +1,39 @@
+[submodule "Data-Analysis/Coffee-Shop-Sales-Analytics"]
+	path = Data-Analysis/Coffee-Shop-Sales-Analytics
+	url = https://github.com/JulioCesarSantosdv/Coffee-Shop-Sales-Analytics.git
+[submodule "Data-Analysis/Analise-de-Dados-Ecommerce"]
+	path = Data-Analysis/Analise-de-Dados-Ecommerce
+	url = https://github.com/JulioCesarSantosdv/Analise-de-Dados-Ecommerce.git
+[submodule "Full-Stack/Login-em-PHP-e-MYSQL"]
+	path = Full-Stack/Login-em-PHP-e-MYSQL
+	url = https://github.com/JulioCesarSantosdv/Login-em-PHP-e-MYSQL.git
+[submodule "Full-Stack/QUIZZWEB"]
+	path = Full-Stack/QUIZZWEB
+	url = https://github.com/JulioCesarSantosdv/QUIZZWEB.git
+[submodule "Full-Stack/Website-para-Nutricionista-e-Personal-Trainer"]
+	path = Full-Stack/Website-para-Nutricionista-e-Personal-Trainer
+	url = https://github.com/JulioCesarSantosdv/Website-para-Nutricionista-e-Personal-Trainer.git
+[submodule "Full-Stack/JulioCesarSantosdv.github.io"]
+	path = Full-Stack/JulioCesarSantosdv.github.io
+	url = https://github.com/JulioCesarSantosdv/JulioCesarSantosdv.github.io.git
+[submodule "Learning/Logica-com-Algoritimos"]
+	path = Learning/Logica-com-Algoritimos
+	url = https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos.git
+[submodule "Learning/Weather-and-Time"]
+	path = Learning/Weather-and-Time
+	url = https://github.com/JulioCesarSantosdv/Weather-and-Time.git
+[submodule "Learning/Catalogo-de-Jogos"]
+	path = Learning/Catalogo-de-Jogos
+	url = https://github.com/JulioCesarSantosdv/Catalogo-de-Jogos.git
+[submodule "Learning/Criando-Um-Site-com-o-Bootstrap"]
+	path = Learning/Criando-Um-Site-com-o-Bootstrap
+	url = https://github.com/JulioCesarSantosdv/Criando-Um-Site-com-o-Bootstrap.git
+[submodule "Learning/projeto_JavaScript_Lampada.github.io"]
+	path = Learning/projeto_JavaScript_Lampada.github.io
+	url = https://github.com/JulioCesarSantosdv/projeto_JavaScript_Lampada.github.io.git
+[submodule "Learning/Projeto-Site-para-um-Restaurante"]
+	path = Learning/Projeto-Site-para-um-Restaurante
+	url = https://github.com/JulioCesarSantosdv/Projeto-Site-para-um-Restaurante.git
+[submodule "Learning/Projeto_JavaScript_Terminal_de_Senha.github.io"]
+	path = Learning/Projeto_JavaScript_Terminal_de_Senha.github.io
+	url = https://github.com/JulioCesarSantosdv/Projeto_JavaScript_Terminal_de_Senha.github.io.git
