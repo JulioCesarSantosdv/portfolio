@@ -37,3 +37,9 @@
 [submodule "Learning/Projeto_JavaScript_Terminal_de_Senha.github.io"]
 	path = Learning/Projeto_JavaScript_Terminal_de_Senha.github.io
 	url = https://github.com/JulioCesarSantosdv/Projeto_JavaScript_Terminal_de_Senha.github.io.git
+[submodule "Full-Stack/Inventory-app"]
+	path = Full-Stack/Inventory-app
+	url = https://github.com/JulioCesarSantosdv/Inventory-app.git
+[submodule "Full-Stack/Patrimonio"]
+	path = Full-Stack/Patrimonio
+	url = https://github.com/JulioCesarSantosdv/Patrimonio.git
