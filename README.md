@@ -9,8 +9,7 @@
 - [Quiz Web Application](https://github.com/JulioCesarSantosdv/QUIZZWEB/tree/d320ed204b12218d4dc209afdd20b19c6d596e90) - Interactive quiz platform
 - [Nutritionist Website](https://github.com/JulioCesarSantosdv/Website-para-Nutricionista-e-Personal-Trainer/tree/f8c9d52d18c792135ec9ac9c5040edba7de3f2d7) - Professional services website
 - [Personal Portfolio]([Full-Stack/JulioCesarSantosdv.github.io](https://github.com/JulioCesarSantosdv/JulioCesarSantosdv.github.io/tree/0a374ce5f1751ae1f925d44b18d4dcc5419ee297)) - GitHub Pages portfolio
-- [Inventory Management App](Full-Stack/Inventory-app) - TypeScript inventory system
-- [Personal Finance Tracker](Full-Stack/Patrimonio) - JavaScript finance application
+
 
 ## 🎓 Learning Projects
 - [Logic and Algorithms](https://github.com/JulioCesarSantosdv/Logica-com-Algoritimos/tree/34725ee8981fcb921c3fadd742d0c7a0a9361829) - Programming logic exercises
