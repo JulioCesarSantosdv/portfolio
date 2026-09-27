@@ -42,6 +42,3 @@ Tools: Git, GitHub, VS Code
 
 > This portfolio uses Git Submodules to organize projects by category.
 
----
-
-> This portfolio uses Git Submodules to organize projects by category.
