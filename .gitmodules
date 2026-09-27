@@ -43,3 +43,6 @@
 [submodule "Full-Stack/Patrimonio"]
 	path = Full-Stack/Patrimonio
 	url = https://github.com/JulioCesarSantosdv/Patrimonio.git
+[submodule "Cloud/Azure/azure-cloud-lab-01"]
+	path = Cloud/Azure/azure-cloud-lab-01
+	url = https://github.com/JulioCesarSantosdv/azure-cloud-lab-01.git
